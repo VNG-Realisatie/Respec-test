@@ -9,13 +9,13 @@ let respecConfig = {
  
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "DEF",
-  publishDate: "2023-12-13",
-  publishVersion: "2.0.0",
+  publishDate: "2024-02-20",
+  publishVersion: "2.0.1",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
   previousMaturity: "DEF",
-  previousPublishDate: "2023-01-13",
-  previousPublishVersion: "1.2.0",
+  previousPublishDate: "2023-12-13",
+  previousPublishVersion: "2.0.0",
 
   title: "Open Raads- en Stateninformatie",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},

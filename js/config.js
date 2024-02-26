@@ -8,7 +8,7 @@ let respecConfig = {
   specType: "IM",
  
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "DEF",
+  specStatus: "BASIS",
   publishDate: "2024-02-20",
   publishVersion: "2.0.1",
   

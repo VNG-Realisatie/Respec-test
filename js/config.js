@@ -3,8 +3,7 @@ let respecConfig = {
 //  useLabel: true,
 //  license: "eupl",
   shortName: "ori",
-  nl_organisationName: "Testorganisatie",
-
+ 
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "IM",
  

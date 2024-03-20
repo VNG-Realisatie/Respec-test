@@ -42,6 +42,14 @@ let respecConfig = {
     ],
   github: "https://github.com/VNG-Realisatie/Respec-test",
 //  maxTocLevel: 2,
+    localBiblio: {
+        "SemVer": {
+            href: "https://semver.org",
+            title: "Semantic Versioning 3.0.0",
+            authors: ["T. Preston-Werner"],
+            date: "June 2023"
+        },
+    },
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [

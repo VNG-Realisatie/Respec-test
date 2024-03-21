@@ -61,7 +61,7 @@ let respecConfig = {
             authors: ["T. Preston-Werner"],
             date: "June 2013",
 //            rawDate: "2024",
-            status: "Onbekend"
+            status: "Onbekend",
     "deliveredBy": [
         {
             "url": "https://www.w3.org/html/wg/",

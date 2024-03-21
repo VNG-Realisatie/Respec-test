@@ -47,14 +47,14 @@ let respecConfig = {
 //      branch: "development",
 //    },
 //  maxTocLevel: 2,
-    localBiblio: {
-        "SemVer": {
-            href: "https://semver.org",
-            title: "Semantic Versioning 3.0.0",
-            authors: ["T. Preston-Werner"],
-            date: "June 2023"
-        },
-    },
+//    localBiblio: {
+//        "Xxxxxx": {
+//            href: "https://xxxxx.xxx",
+//            title: "Xxxxxx n.n.n",
+//            authors: ["A. Bcdef","B. Cdefg"],
+//            date: "dd MMMMM yyyy"
+//        },
+//    },
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [

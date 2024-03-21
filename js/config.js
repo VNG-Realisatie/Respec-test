@@ -66,4 +66,4 @@ let respecConfig = {
           uri: "cim-ori-2.0.0.pdf",
       },
   ],
-};
+}

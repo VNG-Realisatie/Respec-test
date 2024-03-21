@@ -53,10 +53,7 @@ let respecConfig = {
             title: "Xxxxxxxxxxx",
             authors: [
               {
-                "A. Bcdefg",
-              },
-              {
-                "B. Cdefgh",
+                "A. Bcdefg", "B. Cdefgh",
               }
             ],
             date: "June 2023"

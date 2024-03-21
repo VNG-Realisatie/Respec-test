@@ -44,7 +44,7 @@ let respecConfig = {
   github: 
     {
       repoURL: "VNG-Realisatie/Respec-test",
-      branch: "development",
+      branch: "main",
     },
 //  maxTocLevel: 2,
     localBiblio: {

@@ -51,11 +51,7 @@ let respecConfig = {
         "xxxxx": {
             href: "https://xxxx.xxx",
             title: "Xxxxxxxxxxx",
-            authors: [
-              {
-                "A. Bcdefg", "B. Cdefgh",
-              }
-            ],
+            authors: ["A. Bcdefg", "B. Cdefgh"],
             date: "June 2023"
         },
     },

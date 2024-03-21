@@ -2,7 +2,7 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  noTOC: true
+  noTOC: true,
   shortName: "ori",
  
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types

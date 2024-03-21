@@ -19,21 +19,21 @@ let respecConfig = {
 
   title: "Open Raads- en Stateninformatie",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
-  editors:
-    [
-      {
-        name: "Robert Melskens",
-        company: "VNG Realisatie",
-        companyURL: "https://vng.nl/artikelen/vng-realisatie",
-      }
-    ],
+//  editors:
+//    [
+//      {
+//        name: "Robert Melskens",
+//        company: "VNG Realisatie",
+//        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+//      }
+//    ],
   authors:
     [
-      {
-        name: "Johan Boer",
-        company: "VNG Realisatie",
-        companyURL: "https://vng.nl/artikelen/vng-realisatie",
-      },
+//      {
+//        name: "Johan Boer",
+//        company: "VNG Realisatie",
+//        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+//      },
       {
         name: "Henri Korver",
         company: "VNG Realisatie",
@@ -41,6 +41,7 @@ let respecConfig = {
       }
     ],
 //  github: "https://github.com/VNG-Realisatie/Respec-test",
+  github: "VNG-Realisatie/Respec-test",
 //  maxTocLevel: 2,
     localBiblio: {
         "SemVer": {

@@ -47,14 +47,14 @@ let respecConfig = {
 //      branch: "development",
 //    },
 //  maxTocLevel: 2,
-    localBiblio: {
-        "xxxxx": {
-            href: "https://xxxx.xxx",
-            title: "Xxxxxxxxxxx",
-            authors: ["A. Bcdefg", "B. Cdefgh"],
-            date: "June 2023"
-        },
-    },
+//    localBiblio: {
+//        "xxxxx": {
+//            href: "https://xxxx.xxx",
+//            title: "Xxxxxxxxxxx",
+//            authors: ["A. Bcdefg", "B. Cdefgh"],
+//            date: "June 2023"
+//        },
+//    },
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [

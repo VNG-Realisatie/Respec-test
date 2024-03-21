@@ -40,18 +40,25 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-//  github: "https://github.com/VNG-Realisatie/Respec-test",
-  github: 
-    {
-      repoURL: "VNG-Realisatie/Respec-test",
-      branch: "development",
-    },
+  github: "https://github.com/VNG-Realisatie/Respec-test",
+//  github: 
+//    {
+//      repoURL: "VNG-Realisatie/Respec-test",
+//      branch: "development",
+//    },
 //  maxTocLevel: 2,
     localBiblio: {
-        "SemVer": {
-            href: "https://semver.org",
-            title: "Semantic Versioning 3.0.0",
-            authors: ["T. Preston-Werner"],
+        "xxxxx": {
+            href: "https://xxxx.xxx",
+            title: "Xxxxxxxxxxx",
+            authors: [
+              {
+                "A. Bcdefg",
+              },
+              {
+                "B. Cdefgh",
+              }
+            ],
             date: "June 2023"
         },
     },

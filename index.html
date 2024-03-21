@@ -8,6 +8,10 @@
   <script src="https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/js/organisation-config.js" class="remove"></script>
   <script src="js/config.js" class="remove"></script>
   <script class="remove"> respecConfig = {...organisationConfig, ...respecConfig}</script>
+  <script class="remove">
+    respecConfig.localBiblio = Object.assign(organisationConfig.localBiblio,respecConfig.localBiblio);
+    respecConfig = {...organisationConfig, ...respecConfig};
+  </script>
   <script>document.title = respecConfig.title</script>
   <title>Default</title>
   <link rel="shortcut icon" type="image/x-icon" href="https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/media/logo-VNG-Realisatie.ico" />

@@ -59,9 +59,23 @@ let respecConfig = {
             publisher: "Uitgeverij de Bij",
             title: "Semantic Versioning 3.0.0",
             authors: ["T. Preston-Werner"],
-//            date: "June 2013",
-            rawDate: "2024",
+            date: "June 2013",
+//            rawDate: "2024",
             status: "Onbekend"
+    "deliveredBy": [
+        {
+            "url": "https://www.w3.org/html/wg/",
+            "shortname": "html"
+        }
+    ],
+    "versions": [
+        "2dcontext2-20150929",
+        "2dcontext2-20140828",
+        "2dcontext2-20131029",
+        "2dcontext2-20130528",
+        "2dcontext2-20121217"
+    ],
+    "edDraft": "https://www.w3.org/html/wg/drafts/2dcontext/master/",
         },
     },
 

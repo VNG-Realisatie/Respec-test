@@ -60,7 +60,7 @@ let respecConfig = {
             title: "Semantic Versioning 3.0.0",
             authors: ["T. Preston-Werner"],
 //            date: "June 2013",
-            rawDate: "Jantje",
+            rawDate: "0024",
             status: "Onbekend"
         },
     },

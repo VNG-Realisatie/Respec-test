@@ -40,7 +40,7 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://github.com/VNG-Realisatie/Respec-test",
+  github: "https://github.com/VNG-Realisatie-test/Respec-test",
 //  maxTocLevel: 2,
     localBiblio: {
         "SemVer": {

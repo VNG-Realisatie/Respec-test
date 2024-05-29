@@ -9,12 +9,12 @@ let respecConfig = {
   specType: "IM",
  
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "BASIS",
+  specStatus: "CV",
   publishDate: "2024-02-20",
   publishVersion: "2.0.1",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
-  previousMaturity: "DEF",
+  previousMaturity: "IO",
   previousPublishDate: "2023-12-13",
   previousPublishVersion: "2.0.0",
 
